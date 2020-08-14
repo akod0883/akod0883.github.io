@@ -10,4 +10,4 @@ citation: 'L. Jacobs, A. Kodumuri, J. James, S. Park and Y. Kim, "Multiperspecti
 ---
 This paper is about a new way to generate datasets for neural networks.
 
-I also had the priveledge to present this paper at the IPDPS [PAISE 2020](https://www.mcs.anl.gov/research/projects/waggle/cfp/PAISE2020_COVID.html) workshop on Parallel AI and Systems for the Edge.
+I also had the privilege to present this paper at the IPDPS [PAISE 2020](https://www.mcs.anl.gov/research/projects/waggle/cfp/PAISE2020_COVID.html) workshop on Parallel AI and Systems for the Edge.
