@@ -12,4 +12,4 @@ This [paper](https://akod0883.github.io/files/Multi_perspective_Automotive_Label
 
 I also had the privilege to present this paper at the IPDPS [PAISE 2020](https://www.mcs.anl.gov/research/projects/waggle/cfp/PAISE2020_COVID.html) workshop on Parallel AI and Systems for the Edge.
 
-Click [here](https://www.youtube.com/watch?v=KJ1-lCf0u_g) to watch the video.
+Click [here](https://www.youtube.com/watch?v=KJ1-lCf0u_g) to watch the the presentation video.
