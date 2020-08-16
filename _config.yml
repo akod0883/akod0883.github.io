@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Akhil Kodumuri / About Me"
+title                    : "Akhil Kodumuri / Home"
 title_separator          : "-"
 name                     : &name "Akhil Kodumuri"
 description              : &description "personal description"
