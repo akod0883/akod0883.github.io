@@ -1,6 +1,6 @@
 ---
 title: "Chameleon-Sage Image Builder"
-excerpt: "This repository shows my work regarding creating an image container Sage's software plugins and stacks that can be used on Chameleon bare-metal, gpu-based, and arm64 instances. <br/><img src='~/Desktop/akod0883.github.io/images/sage.png'>"
+excerpt: "This repository shows my work regarding creating an image container Sage's software plugins and stacks that can be used on Chameleon bare-metal, gpu-based, and arm64 instances. <br/><img src='~/Desktop/akod0883.github.io/files/sage.png'>"
 collection: portfolio
 ---
 
