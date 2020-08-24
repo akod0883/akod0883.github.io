@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "images/editedAkhilPic.png"
+  bio              : "student/engineer/future changer"
   location         : "Downers Grove, Illinois"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
