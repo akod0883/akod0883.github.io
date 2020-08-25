@@ -12,3 +12,5 @@ Hello future viewer of this website! My name is Akhil Kodumuri, and I am an upco
 I have research experience in machine/deep learning, linux systems, Docker, and Kubernetes. I'm looking for any opportunities in AI and software. Generally, I love learning about new technologies and using them to world changing applications.
 
 Feel free to peruse this website to learn more about my interests, work, achievements, aspirations, and personality!
+
+Want to know more about my work? Check out my complete [resume]()!

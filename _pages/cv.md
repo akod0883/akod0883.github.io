@@ -31,6 +31,12 @@ Work experience
   * Coauthored and presented paper at PAISE 2020 Parallel AI and Systems for the Edge as apart of IPDPS
   * Performed error tests Docker containers, Odriod, and Arduino hardware.
 
+* Summer 2018: Research Assistant
+  * Argonne National Laboratories
+  * Duties included
+  * Learned about numerous different types of neural networks.
+  * Neural networks include: CNN, RNN, and SSD-Mobilenet.
+
 * Summer 2017: Research Assistant
   * Argonne National Laboratories
   * Participated in the Multiple Myeloma Dream Challenge and helped develop a Machine Learning algorithm to improve patient stratifications to optimize treatment and develop new therapies for high risk patients with Multiple Myeloma
