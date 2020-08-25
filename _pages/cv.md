@@ -36,6 +36,8 @@ Work experience
   * Duties included
   * Learned about numerous different types of neural networks.
   * Neural networks include: CNN, RNN, and SSD-Mobilenet.
+  * Received certification in Stanford Machine Learning course on Coursera.  
+  * Click [here](https://www.coursera.org/account/accomplishments/verify/5KUZGQZWMC5E) to view credential. 
 
 * Summer 2017: Research Assistant
   * Argonne National Laboratories
